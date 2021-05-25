@@ -2,8 +2,7 @@
 
 ---
 
-This is a project I have created for Cloud Computing (CENG495) class at METU. The purpose of this project was to build an app accessing to an external API to generate or read QR codes, which is then to be deployed to Azure Cloud. The app is still accessible [here](https://qr-code-reader-generator.azurewebsites.net/).
-
+This is a project I have created for Cloud Computing (CENG495) class at METU. The purpose of this project was to build an app accessing to an external API to generate or read QR codes, which is then to be deployed to Azure Cloud. The project is not accessible now, due to the expiration of Free Plan, however you can host the project on a PHP server after building it.
 ---
 
 ##### Created by: Ozan Incesulu
